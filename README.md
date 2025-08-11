@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
-## Presentación Personal
+## Abril Lara
 
 ### Datos Personales
 - Mi nombre es:
